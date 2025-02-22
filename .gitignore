@@ -164,3 +164,6 @@ dataset/
 
 # Ignore DS store
 .DS_Store
+
+# Ignore Tableau files
+*.twbx
