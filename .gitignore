@@ -161,3 +161,6 @@ cython_debug/
 
 # Dataset
 dataset/
+
+# Ignore DS store
+.DS_Store
